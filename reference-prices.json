@@ -22,1033 +22,3269 @@
       "national": 80,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        59,
+        71.7,
+        76.8,
+        79,
+        81.1,
+        82.8,
+        84.2,
+        86.5,
+        88.8,
+        90.3,
+        100.3
+      ]
     },
     "bread/食パン": {
       "national": 55,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        30.1,
+        46.6,
+        50.2,
+        52.1,
+        54.4,
+        56.2,
+        57.3,
+        58.5,
+        59.8,
+        62.3,
+        88.5
+      ]
     },
     "bread/菓子パン": {
       "national": 176.3,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        88,
+        101,
+        104,
+        105,
+        110,
+        111,
+        113,
+        115,
+        119,
+        125,
+        164
+      ]
     },
     "staple/noodle/うどん": {
       "national": 36.2,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        18.5,
+        20.4,
+        22.8,
+        24.1,
+        26,
+        36.5,
+        39.1,
+        44.5,
+        48.3,
+        55,
+        67.9
+      ]
     },
     "staple/noodle/そうめん": {
       "national": 126.2,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        107,
+        116.3,
+        121.3,
+        122.7,
+        123.7,
+        126,
+        127,
+        129,
+        131,
+        135,
+        174
+      ]
     },
     "staple/noodle/パスタ": {
       "national": 65.7,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        48.6,
+        58.3,
+        62.1,
+        63.4,
+        65.3,
+        65.8,
+        67.6,
+        68.6,
+        71.1,
+        71.7,
+        75.3
+      ]
     },
     "canned/instant/カップ麺": {
       "national": 248.1,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        215.4,
+        226.9,
+        235.9,
+        239.7,
+        244.9,
+        247.4,
+        251.3,
+        257.7,
+        261.5,
+        271.8,
+        283.3
+      ]
     },
     "staple/noodle/中華麺": {
       "national": 49.1,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        42.8,
+        46.3,
+        46.9,
+        47.4,
+        48.1,
+        48.8,
+        49.5,
+        50.3,
+        51.6,
+        52.8,
+        58.8
+      ]
     },
     "canned/flour/小麦粉": {
       "national": 35.5,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        27.9,
+        31.6,
+        32.5,
+        33.7,
+        34.7,
+        35.4,
+        36.5,
+        37.4,
+        38.3,
+        39.7,
+        43
+      ]
     },
     "staple/rice/もち": {
       "national": 112.8,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        89.5,
+        105.3,
+        105.8,
+        107.4,
+        111.3,
+        112.2,
+        116.6,
+        116.7,
+        120.8,
+        123,
+        128.4
+      ]
     },
     "bread/シリアル": {
       "national": 118.7,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        100.7,
+        110.6,
+        111.9,
+        114.9,
+        116.9,
+        118.4,
+        119.9,
+        122.3,
+        125,
+        128,
+        133.8
+      ]
     },
     "fish/sashimi/まぐろ": {
       "national": 551.6,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        388,
+        461,
+        479,
+        505,
+        524,
+        545,
+        569,
+        587,
+        621,
+        651,
+        786
+      ]
     },
     "fish/whole/あじ": {
       "national": 191.5,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        90,
+        138,
+        156,
+        170,
+        180,
+        189,
+        198,
+        211,
+        221,
+        252,
+        312
+      ]
     },
     "fish/whole/いわし": {
       "national": 127.1,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        69,
+        95,
+        103,
+        109,
+        113,
+        118,
+        132,
+        140,
+        148,
+        162,
+        244
+      ]
     },
     "fish/sashimi/かつお": {
       "national": 279,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        213,
+        241,
+        261,
+        265,
+        273,
+        278,
+        285,
+        289,
+        297,
+        301,
+        378
+      ]
     },
     "fish/fillet/さけ": {
       "national": 526.1,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        352,
+        428,
+        468,
+        485,
+        519,
+        532,
+        549,
+        561,
+        590,
+        619,
+        668
+      ]
     },
     "fish/fillet/さば": {
       "national": 175.2,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        105,
+        148,
+        159,
+        165,
+        169,
+        173,
+        179,
+        185,
+        192,
+        206,
+        239
+      ]
     },
     "fish/whole/さんま": {
       "national": 202.3,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        125,
+        170,
+        176,
+        183,
+        189,
+        196,
+        203,
+        213,
+        220,
+        237,
+        418
+      ]
     },
     "fish/whole/たい": {
       "national": 671.7,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        128,
+        623,
+        642,
+        655,
+        681,
+        696,
+        708,
+        721,
+        740,
+        754,
+        794
+      ]
     },
     "fish/fillet/ぶり": {
       "national": 435.8,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        197,
+        279,
+        346,
+        391,
+        418,
+        440,
+        477,
+        509,
+        515,
+        532,
+        757
+      ]
     },
     "fish/shellfish/いか": {
       "national": 243.3,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        148,
+        190,
+        196,
+        206,
+        215,
+        222,
+        235,
+        250,
+        274,
+        351,
+        493
+      ]
     },
     "fish/shellfish/たこ": {
       "national": 510.2,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        375,
+        430,
+        465,
+        488,
+        494,
+        506,
+        526,
+        540,
+        554,
+        579,
+        670
+      ]
     },
     "fish/shellfish/えび": {
       "national": 359.9,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        223,
+        285,
+        320,
+        327,
+        347,
+        360,
+        372,
+        384,
+        401,
+        436,
+        513
+      ]
     },
     "fish/shellfish/あさり": {
       "national": 175.7,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        106,
+        123,
+        138,
+        151,
+        159,
+        167,
+        176,
+        187,
+        214,
+        245,
+        326
+      ]
     },
     "fish/shellfish/ほたて": {
       "national": 444.4,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        196,
+        383,
+        398,
+        416,
+        429,
+        447,
+        466,
+        483,
+        496,
+        509,
+        644
+      ]
     },
     "fish/dried_fish/塩鮭": {
       "national": 302.3,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        239,
+        269,
+        279,
+        285,
+        291,
+        304,
+        311,
+        314,
+        322,
+        337,
+        408
+      ]
     },
     "fish/roe/明太子・たらこ": {
       "national": 512.1,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        387,
+        443,
+        468,
+        487,
+        498,
+        502,
+        518,
+        536,
+        545,
+        579,
+        729
+      ]
     },
     "fish/shirasu/しらす": {
       "national": 733.4,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        459,
+        586,
+        607,
+        661,
+        714,
+        740,
+        766,
+        793,
+        827,
+        885,
+        1064
+      ]
     },
     "fish/dried_fish/あじの開き": {
       "national": 198.6,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        119,
+        166,
+        176,
+        187,
+        195,
+        203,
+        207,
+        212,
+        220,
+        227,
+        269
+      ]
     },
     "fish/shirasu/いりこ": {
       "national": 362.5,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        213,
+        282,
+        315,
+        336,
+        351,
+        367,
+        381,
+        393,
+        413,
+        435,
+        558
+      ]
     },
     "fish/dried_fish/その他の干物": {
       "national": 269.4,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        202,
+        235,
+        243,
+        256,
+        263,
+        269,
+        275,
+        283,
+        291,
+        301,
+        353
+      ]
     },
     "fish/roe/いくら・すじこ": {
       "national": 2250,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        1346,
+        1615,
+        1750,
+        2064,
+        2150,
+        2315,
+        2344,
+        2489,
+        2631,
+        2752,
+        3546
+      ]
     },
     "fish/dried_fish/塩さば": {
       "national": 298.2,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        126,
+        244,
+        262,
+        288,
+        293,
+        306,
+        315,
+        320,
+        338,
+        342,
+        384
+      ]
     },
     "tofu/surimi/さつま揚げ": {
       "national": 135.7,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        94,
+        107,
+        117,
+        123,
+        133,
+        137,
+        141,
+        146,
+        151,
+        161,
+        210
+      ]
     },
     "tofu/surimi/ちくわ": {
       "national": 122.2,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        94,
+        100,
+        107,
+        108,
+        113,
+        119,
+        122,
+        128,
+        137,
+        150,
+        184
+      ]
     },
     "tofu/surimi/かまぼこ": {
       "national": 205,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        137,
+        171,
+        178,
+        184,
+        191,
+        203,
+        213,
+        222,
+        234,
+        243,
+        277
+      ]
     },
     "canned/dry/かつお節": {
       "national": 1681.2,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        1123,
+        1331,
+        1400,
+        1484,
+        1533,
+        1642,
+        1738,
+        1744,
+        1881,
+        2095,
+        2585
+      ]
     },
     "fish/roe/珍味・塩辛": {
       "national": 438.4,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        239,
+        269,
+        278,
+        295,
+        307,
+        315,
+        326,
+        342,
+        357,
+        380,
+        437
+      ]
     },
     "canned/can/ツナ": {
       "national": 231.4,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        185.7,
+        204.3,
+        215.7,
+        224.3,
+        227.1,
+        234.3,
+        240,
+        244.3,
+        248.6,
+        251.4,
+        262.9
+      ]
     },
     "meat/beef/こま切れ・切り落とし": {
       "national": 679.2,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        695,
+        751,
+        799,
+        836,
+        865,
+        898,
+        948,
+        992,
+        1024,
+        1100,
+        1436
+      ]
     },
     "meat/pork/豚バラ": {
       "national": 303.6,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        224,
+        281,
+        293,
+        296,
+        305,
+        308,
+        311,
+        315,
+        319,
+        321,
+        355
+      ]
     },
     "meat/pork/豚ロース": {
       "national": 170.5,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        132,
+        153,
+        160,
+        165,
+        168,
+        170,
+        176,
+        178,
+        183,
+        187,
+        213
+      ]
     },
     "meat/chicken/鶏もも": {
       "national": 158.6,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        130,
+        141,
+        146,
+        149,
+        153,
+        156,
+        160,
+        163,
+        168,
+        179,
+        234
+      ]
     },
     "processed/ham/ハム": {
       "national": 228.8,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        158,
+        200,
+        204,
+        211,
+        221,
+        230,
+        234,
+        246,
+        252,
+        260,
+        296
+      ]
     },
     "processed/sausage/ウインナー": {
       "national": 191.2,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        158,
+        179,
+        183,
+        184,
+        187,
+        189,
+        190,
+        194,
+        202,
+        214,
+        226
+      ]
     },
     "processed/ham/ベーコン": {
       "national": 268.6,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        208,
+        233,
+        244,
+        251,
+        254,
+        270,
+        274,
+        276,
+        287,
+        305,
+        376
+      ]
     },
     "meat/seasoned/味付け肉": {
       "national": 203.8,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        124,
+        166,
+        176,
+        183,
+        191,
+        197,
+        207,
+        214,
+        223,
+        245,
+        332
+      ]
     },
     "egg_dairy/milk/牛乳": {
       "national": 26.7,
       "per": 100,
       "unit": "ml",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        21.7,
+        23,
+        24.6,
+        25.2,
+        26,
+        26.5,
+        27.1,
+        27.9,
+        28.4,
+        30.3,
+        37.4
+      ]
     },
     "egg_dairy/milk/粉ミルク": {
       "national": 359.5,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        327.4,
+        335.8,
+        340.8,
+        343.3,
+        348.7,
+        356.8,
+        362.1,
+        369.2,
+        379.4,
+        389.6,
+        412.6
+      ]
     },
     "egg_dairy/cheese_butter/バター": {
       "national": 298.1,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        263.5,
+        269,
+        285,
+        291.5,
+        295.5,
+        296.5,
+        304,
+        307,
+        312.5,
+        317.5,
+        339.5
+      ]
     },
     "egg_dairy/cheese_butter/スライスチーズ": {
       "national": 264.7,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        169,
+        225,
+        243,
+        250,
+        268,
+        273,
+        283,
+        287,
+        287,
+        292,
+        312
+      ]
     },
     "egg_dairy/cheese_butter/クリームチーズ": {
       "national": 730.9,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        516,
+        672.8,
+        693.6,
+        715.2,
+        724,
+        734.4,
+        745.6,
+        750.4,
+        759.2,
+        815.2,
+        867.2
+      ]
     },
     "egg_dairy/yogurt/プレーン": {
       "national": 47.5,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        42.8,
+        44,
+        44.2,
+        45.5,
+        46,
+        46.8,
+        47.5,
+        49,
+        49.5,
+        51.5,
+        68
+      ]
     },
     "egg_dairy/egg/卵（10個）": {
       "national": 31.5,
       "per": 1,
       "unit": "個",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        21.9,
+        28.9,
+        30.3,
+        31.1,
+        31.6,
+        31.8,
+        32.1,
+        32.5,
+        33.2,
+        34,
+        37.1
+      ]
     },
     "vegetable/leafy/キャベツ": {
       "national": 19.7,
       "per": 100,
       "unit": "g",
-      "source": "maff"
+      "source": "maff",
+      "dist": [
+        15.9,
+        16.4,
+        17.8,
+        18.2,
+        18.7,
+        19.2,
+        19.7,
+        20.1,
+        20.6,
+        22.1,
+        26.6
+      ]
     },
     "vegetable/leafy/ほうれん草": {
       "national": 155.1,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        111.6,
+        129,
+        139.7,
+        146.3,
+        148.6,
+        153.7,
+        157.9,
+        164.8,
+        170.7,
+        180,
+        201.5
+      ]
     },
     "vegetable/leafy/白菜": {
       "national": 31.9,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        21.1,
+        26.6,
+        28.4,
+        29.8,
+        31.1,
+        31.8,
+        33.1,
+        33.8,
+        35.1,
+        36.5,
+        43
+      ]
     },
     "vegetable/leafy/ねぎ": {
       "national": 91.6,
       "per": 100,
       "unit": "g",
-      "source": "maff"
+      "source": "maff",
+      "dist": [
+        64,
+        72,
+        79.9,
+        85,
+        86.2,
+        91.6,
+        92.5,
+        93.8,
+        97.1,
+        101.6,
+        108.4
+      ]
     },
     "vegetable/leafy/レタス": {
       "national": 50,
       "per": 100,
       "unit": "g",
-      "source": "maff"
+      "source": "maff",
+      "dist": [
+        35.1,
+        40.2,
+        41.6,
+        43.7,
+        44.7,
+        49.5,
+        52.4,
+        55.6,
+        56.4,
+        59.2,
+        71.1
+      ]
     },
     "vegetable/sprout/もやし": {
       "national": 20.8,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        12,
+        15.5,
+        16.3,
+        17.1,
+        17.7,
+        18.8,
+        21.3,
+        23.5,
+        25.3,
+        27.3,
+        36.5
+      ]
     },
     "vegetable/fruiting/ブロッコリー": {
       "national": 79.7,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        57.5,
+        66.9,
+        69.1,
+        74.8,
+        76.8,
+        79.9,
+        81.1,
+        83.6,
+        86,
+        88.6,
+        112.9
+      ]
     },
     "vegetable/fruiting/アスパラガス": {
       "national": 220.5,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        163.2,
+        185.9,
+        193.2,
+        209.1,
+        214.8,
+        216.3,
+        224.3,
+        236.6,
+        244.6,
+        252.2,
+        278.3
+      ]
     },
     "vegetable/root/さつまいも": {
       "national": 70.2,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        38.6,
+        55.2,
+        62.6,
+        65.1,
+        68.8,
+        70.6,
+        74.2,
+        77.4,
+        79.1,
+        82.2,
+        95.1
+      ]
     },
     "vegetable/root/じゃがいも": {
       "national": 48.9,
       "per": 100,
       "unit": "g",
-      "source": "maff"
+      "source": "maff",
+      "dist": [
+        42.3,
+        45.6,
+        48.6,
+        49.3,
+        51.2,
+        54.1,
+        55.4,
+        57.5,
+        60.9,
+        64.5,
+        67.1
+      ]
     },
     "vegetable/root/里いも": {
       "national": 116.3,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        62.5,
+        93.1,
+        100.4,
+        108.3,
+        112.1,
+        116,
+        119.6,
+        125.6,
+        130.2,
+        143.6,
+        170.9
+      ]
     },
     "vegetable/root/大根": {
       "national": 28.8,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        17.3,
+        22.6,
+        25.7,
+        27,
+        27.9,
+        29.4,
+        30,
+        30.9,
+        32.2,
+        33.8,
+        38.4
+      ]
     },
     "vegetable/root/にんじん": {
       "national": 46.5,
       "per": 100,
       "unit": "g",
-      "source": "maff"
+      "source": "maff",
+      "dist": [
+        44.7,
+        45.4,
+        47.1,
+        48,
+        48.9,
+        50.2,
+        51.1,
+        52.3,
+        53.3,
+        55,
+        59.1
+      ]
     },
     "vegetable/root/ごぼう": {
       "national": 107.9,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        72,
+        83.7,
+        91.8,
+        98.1,
+        101.1,
+        108.9,
+        111.4,
+        118.3,
+        124.5,
+        132.7,
+        165.4
+      ]
     },
     "vegetable/root/たまねぎ": {
       "national": 33.9,
       "per": 100,
       "unit": "g",
-      "source": "maff"
+      "source": "maff",
+      "dist": [
+        33.9,
+        36.1,
+        37.7,
+        39.1,
+        41.5,
+        46.3,
+        49.9,
+        52.6,
+        53.4,
+        54.5,
+        55.8
+      ]
     },
     "vegetable/root/れんこん": {
       "national": 135.9,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        96.6,
+        105.4,
+        109.7,
+        119.5,
+        124.9,
+        129.6,
+        139.1,
+        145.3,
+        161.2,
+        176.5,
+        207.1
+      ]
     },
     "vegetable/root/長いも": {
       "national": 83.5,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        62.7,
+        71.3,
+        76.4,
+        79.2,
+        80.8,
+        84.2,
+        86.3,
+        87.4,
+        90.2,
+        95.2,
+        119
+      ]
     },
     "vegetable/herb/しょうが": {
       "national": 220.5,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        153.1,
+        182.1,
+        191.6,
+        204.4,
+        214.1,
+        220.5,
+        225.5,
+        240.7,
+        243.5,
+        254.5,
+        293.5
+      ]
     },
     "vegetable/beans/えだまめ": {
       "national": 159.9,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        128.9,
+        144.3,
+        146.7,
+        150.8,
+        156.3,
+        159.3,
+        162.1,
+        164.7,
+        171.2,
+        179.4,
+        198.1
+      ]
     },
     "vegetable/beans/さやいんげん": {
       "national": 360.2,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        184.8,
+        261.4,
+        283,
+        313,
+        327.1,
+        354.3,
+        382.3,
+        404.6,
+        434.9,
+        457.7,
+        586.5
+      ]
     },
     "vegetable/fruiting/かぼちゃ": {
       "national": 68.5,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        54.8,
+        59.4,
+        62.4,
+        64.1,
+        66.1,
+        67.3,
+        68.9,
+        71.5,
+        75.6,
+        80,
+        86.5
+      ]
     },
     "vegetable/fruiting/きゅうり": {
       "national": 76,
       "per": 100,
       "unit": "g",
-      "source": "maff"
+      "source": "maff",
+      "dist": [
+        56.4,
+        60.3,
+        62.1,
+        63.7,
+        64.9,
+        67.2,
+        75.1,
+        76.6,
+        77.8,
+        81.6,
+        89.4
+      ]
     },
     "vegetable/fruiting/なす": {
       "national": 76.1,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        57.8,
+        64.9,
+        69.4,
+        72,
+        73.4,
+        75,
+        77.2,
+        80.8,
+        83.1,
+        87.6,
+        105.7
+      ]
     },
     "vegetable/fruiting/トマト": {
       "national": 96.7,
       "per": 100,
       "unit": "g",
-      "source": "maff"
+      "source": "maff",
+      "dist": [
+        72.3,
+        74,
+        75.8,
+        78,
+        82.6,
+        89.9,
+        96.7,
+        109.2,
+        119.2,
+        126.1,
+        146.2
+      ]
     },
     "vegetable/fruiting/ピーマン": {
       "national": 109.5,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        89.2,
+        96.7,
+        101.4,
+        104.2,
+        107.8,
+        110.5,
+        112.4,
+        113.8,
+        116.5,
+        122.3,
+        128.2
+      ]
     },
     "vegetable/mushroom/しいたけ": {
       "national": 177.9,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        114.5,
+        145.5,
+        162.1,
+        166.3,
+        172.5,
+        178.5,
+        185.1,
+        192.5,
+        198.8,
+        208.1,
+        225.3
+      ]
     },
     "vegetable/mushroom/えのき": {
       "national": 60.4,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        41.4,
+        50.5,
+        54.9,
+        56.6,
+        58.1,
+        59.1,
+        61.8,
+        62.9,
+        66,
+        69.5,
+        83.5
+      ]
     },
     "vegetable/mushroom/しめじ": {
       "national": 81.6,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        56.3,
+        62.3,
+        67.9,
+        71.5,
+        75.9,
+        77.7,
+        81.1,
+        87.3,
+        96.6,
+        103.7,
+        138
+      ]
     },
     "vegetable/cut/カットキャベツ": {
       "national": 57.2,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        38.2,
+        45.6,
+        46.6,
+        49.4,
+        51.2,
+        54.7,
+        58.3,
+        61.6,
+        66.3,
+        71.1,
+        99.8
+      ]
     },
     "canned/dry/干ししいたけ": {
       "national": 2179.4,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        1182,
+        1617,
+        1723,
+        1984,
+        2079,
+        2139,
+        2220,
+        2397,
+        2551,
+        2833,
+        3665
+      ]
     },
     "canned/dry/のり": {
       "national": 62,
       "per": 1,
       "unit": "個",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        38.6,
+        49.5,
+        53.8,
+        56.5,
+        59.1,
+        63.1,
+        63.9,
+        66.7,
+        69.1,
+        75.5,
+        98.3
+      ]
     },
     "canned/dry/わかめ": {
       "national": 2429.8,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        1870,
+        2041,
+        2202,
+        2284,
+        2389,
+        2418,
+        2496,
+        2544,
+        2653,
+        2741,
+        3413
+      ]
     },
     "canned/dry/その他": {
       "national": 1077.4,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        720,
+        884,
+        927,
+        990,
+        1020,
+        1066,
+        1090,
+        1134,
+        1245,
+        1318,
+        1810
+      ]
     },
     "canned/dry/ひじき": {
       "national": 2273.1,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        1665,
+        1842,
+        1970,
+        2108,
+        2185,
+        2270,
+        2364,
+        2413,
+        2543,
+        2678,
+        3115
+      ]
     },
     "tofu/tofu_item/豆腐": {
       "national": 29.9,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        18.9,
+        22.6,
+        24.4,
+        25.4,
+        27.5,
+        28.5,
+        29.8,
+        31.6,
+        33.1,
+        38.7,
+        67.5
+      ]
     },
     "tofu/tofu_item/油揚げ": {
       "national": 164.6,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        74.9,
+        108.8,
+        116.7,
+        127.3,
+        141.2,
+        157.6,
+        173.4,
+        189.5,
+        205.3,
+        227.8,
+        318.6
+      ]
     },
     "tofu/natto/納豆": {
       "national": 79.7,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        60.7,
+        67.3,
+        70,
+        72,
+        74.7,
+        79.3,
+        82.7,
+        85.3,
+        87.3,
+        94,
+        113.3
+      ]
     },
     "tofu/tofu_item/こんにゃく": {
       "national": 45.3,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        25.3,
+        36,
+        38.9,
+        42.2,
+        43.8,
+        44.5,
+        46.8,
+        48.9,
+        51.1,
+        54.2,
+        69.4
+      ]
     },
     "tofu/tsukemono/梅干し": {
       "national": 254.6,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        166.5,
+        191.3,
+        202.4,
+        218.8,
+        223.9,
+        235.5,
+        250.3,
+        276.8,
+        311.9,
+        345.4,
+        400.9
+      ]
     },
     "tofu/tsukemono/浅漬け": {
       "national": 98,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        51.5,
+        69.2,
+        75.3,
+        83.9,
+        88.7,
+        92.7,
+        95.2,
+        98,
+        104,
+        119,
+        146.7
+      ]
     },
     "tofu/tsukemono/佃煮": {
       "national": 315.4,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        219.1,
+        249.4,
+        281.2,
+        295.9,
+        312.3,
+        319.5,
+        327.5,
+        343.9,
+        350,
+        359.9,
+        398.3
+      ]
     },
     "tofu/tsukemono/キムチ": {
       "national": 112.7,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        73.8,
+        94.5,
+        99.7,
+        106.3,
+        109.7,
+        111,
+        115.3,
+        121.5,
+        123.8,
+        129.9,
+        151.9
+      ]
     },
     "canned/can/その他の缶詰": {
       "national": 138.7,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        115.6,
+        127.7,
+        132.5,
+        133.9,
+        136.4,
+        139.4,
+        142.2,
+        145,
+        146.1,
+        149.7,
+        153.9
+      ]
     },
     "fruit/りんご": {
       "national": 116.4,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        88.7,
+        106.7,
+        110.8,
+        112.7,
+        114,
+        116.5,
+        118.7,
+        120.2,
+        123,
+        128.9,
+        133.9
+      ]
     },
     "fruit/みかん": {
       "national": 74.1,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        56.9,
+        65.4,
+        67.4,
+        72,
+        73.5,
+        76.1,
+        77.8,
+        78.4,
+        79.8,
+        81.1,
+        84.6
+      ]
     },
     "fruit/梨": {
       "national": 121.8,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        98,
+        106.3,
+        113.3,
+        115.5,
+        117.6,
+        120.5,
+        123.5,
+        127.4,
+        131.8,
+        134.7,
+        159.3
+      ]
     },
     "fruit/ぶどう": {
       "national": 328.5,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        147.9,
+        170.9,
+        178.1,
+        182.7,
+        191.6,
+        195.9,
+        200.3,
+        214.5,
+        220.2,
+        238.8,
+        285.3
+      ]
     },
     "fruit/桃": {
       "national": 157.6,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        111.7,
+        139.1,
+        146,
+        149.8,
+        155.4,
+        158.6,
+        161.8,
+        164.8,
+        167.5,
+        171.6,
+        206.7
+      ]
     },
     "fruit/メロン・すいか": {
       "national": 76.8,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        39.7,
+        46.5,
+        49.9,
+        51.4,
+        52.8,
+        53.6,
+        55.6,
+        57.4,
+        58.2,
+        63.3,
+        82.5
+      ]
     },
     "fruit/バナナ": {
       "national": 37.6,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        21.7,
+        32.4,
+        34,
+        35.9,
+        37.1,
+        37.8,
+        38.7,
+        39.5,
+        40.8,
+        43.6,
+        48.3
+      ]
     },
     "fruit/キウイ": {
       "national": 122,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        98.9,
+        112.5,
+        114.3,
+        118.8,
+        120,
+        122.5,
+        124.3,
+        125.6,
+        130.1,
+        131.4,
+        142.4
+      ]
     },
     "fruit/アボカド": {
       "national": 106.7,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        77.1,
+        93.1,
+        96.1,
+        98.1,
+        103.6,
+        104.7,
+        108.2,
+        114.3,
+        118.1,
+        121.5,
+        136
+      ]
     },
     "fruit/パイナップル": {
       "national": 154.9,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        129.5,
+        136,
+        140.9,
+        145.8,
+        147.9,
+        151,
+        157.5,
+        159.9,
+        164.4,
+        184.1,
+        198.5
+      ]
     },
     "snack/salty/ナッツ・豆菓子": {
       "national": 269.9,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        273,
+        319,
+        338,
+        347,
+        354,
+        363,
+        371,
+        376,
+        384,
+        396,
+        427
+      ]
     },
     "seasoning/oil/サラダ油": {
       "national": 47.5,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        34.9,
+        42,
+        42.9,
+        44.8,
+        46.2,
+        47.7,
+        48.7,
+        49.8,
+        51.7,
+        54.2,
+        61.9
+      ]
     },
     "egg_dairy/cheese_butter/マーガリン": {
       "national": 98.4,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        71,
+        89,
+        92.8,
+        96.5,
+        98.2,
+        100,
+        100.3,
+        103.7,
+        107,
+        107.3,
+        115
+      ]
     },
     "seasoning/basic/塩": {
       "national": 12.7,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        10.6,
+        11.2,
+        11.7,
+        12.2,
+        12.4,
+        12.7,
+        12.8,
+        12.9,
+        13.3,
+        13.9,
+        15.5
+      ]
     },
     "seasoning/basic/しょうゆ": {
       "national": 68,
       "per": 100,
       "unit": "ml",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        59.3,
+        65.3,
+        66.7,
+        66.9,
+        67.8,
+        68.2,
+        68.7,
+        69.1,
+        69.8,
+        71.3,
+        74.7
+      ]
     },
     "seasoning/basic/みそ": {
       "national": 57.5,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        31.3,
+        46.5,
+        51.2,
+        54,
+        56.3,
+        57.3,
+        59.5,
+        61.9,
+        64.5,
+        66.8,
+        74.7
+      ]
     },
     "seasoning/basic/砂糖": {
       "national": 28.2,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        22.8,
+        25.3,
+        26.5,
+        27.1,
+        27.6,
+        28,
+        28.4,
+        29.2,
+        29.5,
+        31.4,
+        39.2
+      ]
     },
     "seasoning/basic/酢": {
       "national": 30.2,
       "per": 100,
       "unit": "ml",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        21.2,
+        25.6,
+        27.6,
+        28.6,
+        29.8,
+        31,
+        31.8,
+        31.8,
+        33,
+        34,
+        37.4
+      ]
     },
     "seasoning/sauce/ソース": {
       "national": 58.6,
       "per": 100,
       "unit": "ml",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        38.4,
+        50.6,
+        52.8,
+        55.6,
+        57.8,
+        59.8,
+        60.2,
+        63.4,
+        64.4,
+        66.4,
+        75
+      ]
     },
     "seasoning/sauce/ケチャップ": {
       "national": 54.2,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        46,
+        49.4,
+        49.6,
+        51.4,
+        52.4,
+        53.8,
+        55.8,
+        56.8,
+        58,
+        59,
+        69.8
+      ]
     },
     "seasoning/sauce/マヨネーズ": {
       "national": 84.9,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        73.8,
+        78,
+        79.4,
+        81.2,
+        82,
+        83.6,
+        85.3,
+        88.4,
+        89.8,
+        93.9,
+        109.8
+      ]
     },
     "seasoning/sauce/ドレッシング": {
       "national": 105.7,
       "per": 100,
       "unit": "ml",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        90.5,
+        98.9,
+        100,
+        102.6,
+        104.5,
+        106.3,
+        108.7,
+        109.2,
+        110.3,
+        113.9,
+        115.8
+      ]
     },
     "bread/ジャム": {
       "national": 182.9,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        141.3,
+        171.3,
+        175.3,
+        178,
+        178.7,
+        182,
+        185.3,
+        189.3,
+        194.7,
+        196.7,
+        204.7
+      ]
     },
     "seasoning/soup/乾燥スープ": {
       "national": 256.4,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        227.2,
+        241.9,
+        241.9,
+        248,
+        252.7,
+        256.7,
+        260.1,
+        264.1,
+        267.5,
+        271.5,
+        288.3
+      ]
     },
     "seasoning/soup/だしの素": {
       "national": 287.3,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        250,
+        255,
+        267,
+        268,
+        281,
+        285,
+        290,
+        295,
+        300,
+        323,
+        374
+      ]
     },
     "seasoning/sauce/焼肉のたれ": {
       "national": 104.5,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        96.4,
+        100,
+        101.4,
+        102.2,
+        103.1,
+        103.9,
+        104.7,
+        105.8,
+        107.2,
+        108.9,
+        117.8
+      ]
     },
     "seasoning/sauce/ポン酢": {
       "national": 33.6,
       "per": 100,
       "unit": "ml",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        28.2,
+        29.8,
+        30.7,
+        31.5,
+        32.2,
+        32.9,
+        33.7,
+        35.1,
+        35.8,
+        38.6,
+        49.5
+      ]
     },
     "seasoning/topping/ふりかけ": {
       "national": 464,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        400,
+        411.5,
+        430.8,
+        442.3,
+        451.9,
+        455.8,
+        473.1,
+        486.5,
+        496.2,
+        513.5,
+        546.2
+      ]
     },
     "seasoning/retort/その他": {
       "national": 140.7,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        119.8,
+        129,
+        131.5,
+        132.7,
+        138.3,
+        142,
+        142.6,
+        145.1,
+        148.8,
+        155.6,
+        165.4
+      ]
     },
     "seasoning/retort/パスタソース": {
       "national": 93.4,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        78,
+        80,
+        86,
+        89,
+        91,
+        93,
+        97,
+        99,
+        103,
+        105,
+        107
+      ]
     },
     "seasoning/topping/スパイス": {
       "national": 405.3,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        355.8,
+        374.4,
+        386,
+        390.7,
+        395.3,
+        400,
+        414,
+        420.9,
+        430.2,
+        434.9,
+        448.8
+      ]
     },
     "snack/wagashi/ようかん": {
       "national": 160.7,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        83,
+        119,
+        123,
+        140,
+        149,
+        157,
+        162,
+        171,
+        187,
+        227,
+        279
+      ]
     },
     "snack/wagashi/まんじゅう": {
       "national": 158.9,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        114,
+        129,
+        136,
+        139,
+        148,
+        159,
+        165,
+        173,
+        174,
+        185,
+        233
+      ]
     },
     "snack/wagashi/だいふく": {
       "national": 142.7,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        100,
+        124,
+        125,
+        135,
+        137,
+        140,
+        143,
+        144,
+        152,
+        165,
+        214
+      ]
     },
     "snack/wagashi/カステラ": {
       "national": 250.4,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        124,
+        176,
+        199,
+        212,
+        222,
+        244,
+        280,
+        295,
+        303,
+        314,
+        436
+      ]
     },
     "snack/dessert/ケーキ": {
       "national": 531.6,
       "per": 1,
       "unit": "個",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        403,
+        454,
+        478,
+        486,
+        511,
+        531,
+        542,
+        557,
+        591,
+        626,
+        695
+      ]
     },
     "snack/dessert/シュークリーム": {
       "national": 195.6,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        124,
+        144,
+        152,
+        172,
+        177,
+        184,
+        191,
+        217,
+        235,
+        255,
+        343
+      ]
     },
     "snack/dessert/ロールケーキ": {
       "national": 1483.1,
       "per": 1,
       "unit": "個",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        413,
+        1164,
+        1296,
+        1359,
+        1408,
+        1500,
+        1580,
+        1649,
+        1699,
+        1826,
+        2035
+      ]
     },
     "snack/dessert/プリン": {
       "national": 171.1,
       "per": 1,
       "unit": "個",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        106,
+        160,
+        163,
+        164,
+        167,
+        169,
+        174,
+        176,
+        179,
+        186,
+        235
+      ]
     },
     "snack/sweet/クッキー・ビスケット": {
       "national": 183.2,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        152,
+        169,
+        172,
+        176,
+        179,
+        184,
+        187,
+        189,
+        193,
+        202,
+        208
+      ]
     },
     "snack/sweet/グミ・キャンディ": {
       "national": 245.8,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        203,
+        217,
+        220,
+        223,
+        225,
+        227,
+        230,
+        233,
+        236,
+        239,
+        266
+      ]
     },
     "snack/salty/せんべい": {
       "national": 173.9,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        112,
+        138,
+        160,
+        164,
+        173,
+        178,
+        182,
+        187,
+        192,
+        201,
+        218
+      ]
     },
     "snack/sweet/チョコ": {
       "national": 399.1,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        348,
+        369,
+        378,
+        386,
+        392,
+        399,
+        407,
+        413,
+        421,
+        428,
+        444
+      ]
     },
     "snack/sweet/ガム": {
       "national": 13.1,
       "per": 1,
       "unit": "個",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        10.5,
+        12.6,
+        12.9,
+        12.9,
+        13,
+        13.1,
+        13.4,
+        13.4,
+        13.7,
+        13.8,
+        14.1
+      ]
     },
     "frozen/ice/カップ": {
       "national": 279.6,
       "per": 100,
       "unit": "ml",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        241.8,
+        258.2,
+        262.7,
+        270,
+        274.5,
+        280.9,
+        283.6,
+        290,
+        292.7,
+        299.1,
+        334.5
+      ]
     },
     "snack/salty/ポテトチップス": {
       "national": 221.6,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        184,
+        197,
+        206,
+        213,
+        217,
+        223,
+        226,
+        231,
+        236,
+        242,
+        280
+      ]
     },
     "snack/dessert/ゼリー": {
       "national": 83.2,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        56,
+        70,
+        73,
+        77,
+        80,
+        83,
+        86,
+        90,
+        93,
+        97,
+        107
+      ]
     },
     "staple/rice/パックごはん": {
       "national": 124.9,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        91,
+        114,
+        117,
+        119,
+        123,
+        125,
+        127,
+        129,
+        133,
+        136,
+        153
+      ]
     },
     "deli/弁当": {
       "national": 633.2,
       "per": 1,
       "unit": "個",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        589,
+        627,
+        643,
+        680,
+        690,
+        690,
+        690,
+        690,
+        693,
+        700,
+        911
+      ]
     },
     "deli/惣菜": {
       "national": 143.9,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        114,
+        139,
+        147,
+        155,
+        163,
+        169,
+        174,
+        183,
+        191,
+        197,
+        223
+      ]
     },
     "frozen/frozen_meal/冷凍ごはん": {
       "national": 103.8,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        87,
+        95,
+        96,
+        100,
+        101,
+        103,
+        105,
+        108,
+        110,
+        114,
+        120
+      ]
     },
     "deli/寿司": {
       "national": 482.2,
       "per": 1,
       "unit": "個",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        609,
+        754,
+        790,
+        819,
+        844,
+        862,
+        891,
+        928,
+        990,
+        1035,
+        1388
+      ]
     },
     "fish/fish_deli/うなぎ・あなご": {
       "national": 1320.5,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        1007,
+        1162,
+        1214,
+        1236,
+        1259,
+        1294,
+        1329,
+        1404,
+        1443,
+        1490,
+        1793
+      ]
     },
     "fish/fish_deli/焼魚・煮魚": {
       "national": 411.6,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        294,
+        343,
+        365,
+        384,
+        389,
+        416,
+        436,
+        444,
+        460,
+        476,
+        543
+      ]
     },
     "deli/サラダ": {
       "national": 175.9,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        123,
+        151,
+        160,
+        168,
+        172,
+        176,
+        179,
+        183,
+        190,
+        200,
+        238
+      ]
     },
     "processed/ham/焼豚": {
       "national": 238.1,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        191,
+        217,
+        220,
+        228,
+        238,
+        239,
+        244,
+        246,
+        249,
+        256,
+        302
+      ]
     },
     "deli/揚げ物": {
       "national": 222.1,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        73,
+        109,
+        120,
+        123,
+        127,
+        132,
+        134,
+        136,
+        142,
+        150,
+        168
+      ]
     },
     "processed/meat_deli/ハンバーグ": {
       "national": 148.7,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        130.5,
+        132.5,
+        139.4,
+        143.9,
+        145.5,
+        148,
+        152.8,
+        154.5,
+        161,
+        162.6,
+        168.7
+      ]
     },
     "frozen/frozen_meal/コロッケ": {
       "national": 192.7,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        139,
+        167,
+        173,
+        185,
+        190,
+        193,
+        199,
+        202,
+        207,
+        219,
+        240
+      ]
     },
     "frozen/frozen_meal/ハンバーグ": {
       "national": 191.1,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        162,
+        178,
+        178,
+        179,
+        181,
+        184,
+        194,
+        197,
+        203,
+        215,
+        246
+      ]
     },
     "frozen/frozen_meal/ぎょうざ": {
       "national": 92.8,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        76,
+        82,
+        84,
+        88,
+        89,
+        91,
+        94,
+        96,
+        100,
+        105,
+        132
+      ]
     },
     "seasoning/retort/カレー": {
       "national": 82.8,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        58.3,
+        73.3,
+        77.2,
+        80.6,
+        81.1,
+        82.8,
+        85,
+        87.2,
+        89.4,
+        90.6,
+        97.2
+      ]
     },
     "seasoning/retort/混ぜごはんの素": {
       "national": 178.7,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        159,
+        160.4,
+        167.9,
+        175.4,
+        176.1,
+        179.9,
+        183.6,
+        184.3,
+        188.1,
+        192.5,
+        200.7
+      ]
     },
     "processed/meat_deli/サラダチキン": {
       "national": 269.7,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        212,
+        244,
+        250,
+        260,
+        267,
+        271,
+        275,
+        277,
+        282,
+        296,
+        322
+      ]
     },
     "processed/meat_deli/ミートボール": {
       "national": 135.4,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        107,
+        123,
+        126,
+        130,
+        133,
+        136,
+        137,
+        139,
+        143,
+        146,
+        176
+      ]
     },
     "drink/water_tea/茶葉・ティーバッグ": {
       "national": 708.9,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        450,
+        582,
+        611,
+        646,
+        681,
+        700,
+        737,
+        762,
+        806,
+        860,
+        1058
+      ]
     },
     "drink/water_tea/緑茶": {
       "national": 16.1,
       "per": 100,
       "unit": "ml",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        14.2,
+        15.1,
+        15.3,
+        15.7,
+        15.8,
+        16,
+        16.1,
+        16.4,
+        16.8,
+        17.2,
+        19.3
+      ]
     },
     "drink/coffee/インスタント": {
       "national": 1108.3,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        879,
+        982,
+        1002,
+        1054,
+        1078,
+        1113,
+        1139,
+        1158,
+        1203,
+        1248,
+        1348
+      ]
     },
     "drink/coffee/ドリップ": {
       "national": 346,
       "per": 100,
       "unit": "g",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        294,
+        327,
+        330,
+        341,
+        345,
+        348,
+        350,
+        359,
+        359,
+        359,
+        382
+      ]
     },
     "drink/coffee/ペットボトル": {
       "national": 17.7,
       "per": 100,
       "unit": "ml",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        13.1,
+        14.9,
+        15.7,
+        16.8,
+        17.3,
+        18.1,
+        18.8,
+        19.1,
+        19.6,
+        19.8,
+        20.9
+      ]
     },
     "drink/juice/果汁ジュース": {
       "national": 27.2,
       "per": 100,
       "unit": "ml",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        25.3,
+        29.6,
+        30.7,
+        31.9,
+        32.7,
+        33.9,
+        36.6,
+        39.2,
+        41.5,
+        48.7,
+        71.7
+      ]
     },
     "drink/juice/野菜ジュース": {
       "national": 60.7,
       "per": 100,
       "unit": "ml",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        53,
+        58,
+        58.5,
+        60.5,
+        61,
+        61,
+        61,
+        61.5,
+        63.5,
+        64,
+        67
+      ]
     },
     "drink/juice/炭酸": {
       "national": 25,
       "per": 100,
       "unit": "ml",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        19.2,
+        21.3,
+        23.8,
+        24,
+        24.3,
+        25,
+        25.7,
+        27.1,
+        27.1,
+        27.4,
+        29
+      ]
     },
     "alcohol/ノンアルコール": {
       "national": 204.5,
       "per": 100,
       "unit": "ml",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        187.7,
+        192.9,
+        196.9,
+        197.4,
+        198,
+        202,
+        206.9,
+        210.3,
+        214,
+        217.7,
+        229.4
+      ]
     },
     "drink/water_tea/炭酸水": {
       "national": 18.8,
       "per": 100,
       "unit": "ml",
-      "source": "sohmu"
+      "source": "sohmu",
+      "dist": [
+        16.4,
+        17.2,
+        18,
+        18.2,
+        18.4,
+        18.6,
+        19,
+        19.2,
+        19.8,
+        20.4,
+        21.8
+      ]
     }
   }
 }
